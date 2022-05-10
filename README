@@ -1,0 +1,15 @@
+Purpose: A parts control system for an airline.
+Source Files: Aircraft.cc, Aircraft.h, Airline.cc, Airline.h, Array.h, Control.cc, Control.h, Date.cc, Date.h, defs.h, main.cc, Part.cc, Part.h, View.cc, View.h
+
+Notes: This project was completed as an assignment for the COMP2404 course at Carleton University. The professors name was Darryl Hill. I will specify what code was written by me and what code was provided by Darryl Hill. Please keep in mind that I understand how the code by professor Darryl works (apart from class.py), it was just sample code provided by the professor when starting the assignment.
+
+Code By Professor Darryl: class.py, Control.cc, Control.h, Date.cc, Date.h, defs.h, main.cc, Makefile, View.cc, View.h
+Code By Me: Aircraft.cc, Aircraft.h, Airline.cc, Airline.h, Part.cc, Part.h
+Code Modified by Me (Please see comments on the classes for specifics): Array.h
+
+To launch (works on Linux):
+1. Open your terminal.
+2. CD into the directory where you have downloaded the ZIP file.
+3. Type: unzip assignment4.zip to extract the files
+4. To compile the source files type: make a4
+5. To run outputfile type: ./a4
